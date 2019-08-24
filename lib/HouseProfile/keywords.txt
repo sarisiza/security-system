@@ -1,0 +1,32 @@
+#######################################
+# Syntax Coloring Map For Test
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+HouseProfile	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+setAge	KEYWORD2
+setLightPref	KEYWORD2
+setTempPref	KEYWORD2
+setName	KEYWORD2
+createProfile	KEYWORD2
+getName	KEYWORD2
+getAge	KEYWORD2
+getLightPref	KEYWORD2
+getTempPref	KEYWORD2
+
+#######################################
+# Instances (KEYWORD2)
+#######################################
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+
